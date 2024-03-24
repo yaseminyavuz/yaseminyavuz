@@ -1,4 +1,4 @@
-https://www.linkedin.com/in/yasemin-yavuz-77a39a17b/overlay/background-image/
+
 <h1 align="center">Hi 👋, I'm Yasemin Yavuz</h1>
 <h3 align="center">A passionate dotnet developer from Turkey</h3>
 
