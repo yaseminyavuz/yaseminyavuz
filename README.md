@@ -28,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yaseminyavuz](https://github.com/yaseminyavuz)
 
-- 💬 Ask me about **C#,Python**
+- 💬 Ask me about **C#,SQL,Python**
 
 - 📫 How to reach me **yaseminyavuz0092@gmail.com**
    
