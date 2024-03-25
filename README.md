@@ -9,13 +9,13 @@
 </div>
 <img src="https://github.com/yaseminyavuz/yaseminyavuz/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-- 🔭 I’m currently working on **ASP .NET CORE 8 PROJECT**
+- 🔭 I’m currently working on **ASP .NET MCV5 PROJECT**
 
 - 🌱 I’m currently learning **SQL**
 
 - 👯 I’m looking to collaborate on **ASP .NET CORE**
 
-- 🤝 I’m looking for help with **ASP .NET CORE 8 PROJECT**
+- 🤝 I’m looking for help with **ASP .NET  PROJECT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yaseminyavuz](https://github.com/yaseminyavuz)
 
