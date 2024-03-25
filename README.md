@@ -1,45 +1,4 @@
 
-
-on:
-
-  schedule:
-    - cron: "0 */24 * * *" 
-  
-
-  workflow_dispatch:
- 
-  push:
-    branches:
-    - master
-    
-  
-
-jobs:
-  generate:
-    permissions: 
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    steps:
-  
-      - name: generate github-contribution-grid-snake.svg
-        uses: yaseminyavuz/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          
-  
-      
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ![](https://komarev.com/ghpvc/?username=yaseminyavuz&color=blue)
 <h1 align="center">Hi 👋, I'm Yasemin Yavuz</h1>
 <h3 align="center">A passionate Dotnet Developer from Turkey</h3>
