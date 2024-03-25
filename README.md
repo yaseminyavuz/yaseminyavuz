@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **ASP .NET MCV5 PROJECT**
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **SAP|ABAP**
 
 - 👯 I’m looking to collaborate on **ASP .NET CORE**
 
