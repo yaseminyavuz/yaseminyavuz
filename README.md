@@ -46,14 +46,7 @@
   <summary>:zap: GitHub Stats</summary> 
 -->
 
-</p>
-<p align="center">Congrats you won !</p>
-<p align="center">
-  <img width="256" src="https://o.charles-chrismann.fr/minesweeper.gif" />
-</p>
-<h3 align="center">
-  <a href="https://o.charles-chrismann.fr/minesweeper/new">Reset Game</a>
-</h3>
+
 
 <hr>
 
