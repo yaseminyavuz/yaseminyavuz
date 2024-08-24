@@ -47,7 +47,6 @@
 -->
 
 
-
 <hr>
 
 <h3 align="center">A classic Chess</h3>
@@ -128,8 +127,8 @@
       <td align="center">
         <details>
           <summary>♙</summary>
-          <a href="https://o.yaseminyavuz/chess/move?x1=0&y1=6&x2=0&y2=4">a4</a>
-          <a href="https://o.yaseminyavuz/chess/move?x1=0&y1=6&x2=0&y2=5">a3</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=4">a4</a>
+          <a href="https://o.charles-chrismann.fr/chess/move?x1=0&y1=6&x2=0&y2=5">a3</a>
         </details>
       </td>
       <td align="center">
@@ -223,9 +222,70 @@
 
 <hr>
 
+<h3 align="center">A classic Wordle</h3>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="5">Wordle</th><th>Player</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>‎ </td>
+      <td>
+        <a href="https://github.com/yasemin-yavuz/yasemin-yavuz/issues/new?body=Please+only+add+your+word+to+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Wordle%3A+">Submit a word</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="4">Scoreboard</th>
+    </tr>
+    <tr>
+      <th>Rank</th>
+      <th colspan="2">Player</th>
+      <th>Wins</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">1</td>
+      <td align="center">
+        <a href="https://github.com/yaseminyavuz">
+          <img src="https://avatars.githubusercontent.com/u/84903360?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yaseminyavuz">@Foword5</a>
+      </td>
+      <td align="center">10</td>
+    </tr>
+    <tr>
+      <td align="center">2</td>
+      <td align="center">
+        <a href="https://github.com/yaseminyavuz">
+          <img src="https://avatars.githubusercontent.com/u/78157563?size=32">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/yaseminyavuz">@Charles-Chrismann</a>
+      </td>
+      <td align="center">7</td>
+    </tr>
+  </tbody>
+</table>
+
+<hr>
 
 
- ![EatSleepCodeRepeat](https://github.com/yaseminyavuz/yaseminyavuz/assets/128582599/8159b3a4-3ca4-4396-b9f9-42162b4e25a6)
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
