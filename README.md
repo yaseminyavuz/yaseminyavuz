@@ -18,19 +18,19 @@
 
 
 
-- 🔭 I’m currently working on **QA TESTING**
+- 🔭 I’m currently working on QA Testing.
 
-- 🌱 I’m currently learning **SELENYUM**
+- 🌱 I’m currently learning Selenium for test automation.
 
-- 👯 I’m looking to collaborate on **TEST CASE**
+- 👯 I’m looking to collaborate on Test Case Development.
 
-- 🤝 I’m looking for help with **QA**
+- 🤝 I’m seeking assistance with QA Processes and Best Practices.
 
-- 👨‍💻 All of my projects are available at [https://github.com/yaseminyavuz](https://github.com/yaseminyavuz)
+- 👨‍💻 All of my projects and contributions are available at GitHub Profile.
 
-- 💬 Ask me about **X-RAY,AGILE,C#,SQL,Python**
+- 💬 Ask me about X-RAY, Agile, C#, SQL, Python.
 
-- 📫 How to reach me **yaseminyavuz0092@gmail.com**
+- 📫 How to reach me **yaseminyavuz00@hotmail.com**
    
        
 
