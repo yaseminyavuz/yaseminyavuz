@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">A passionate Dotnet Developer from Turkey</h3>
+<h3 align="center">A passionate QA TESTER from Turkey</h3>
 
 <div align="center">
  <a href="https://github.com/yaseminyavuz">
@@ -18,17 +18,17 @@
 
 
 
-- 🔭 I’m currently working on **ASP .NET MCV5 PROJECT**
+- 🔭 I’m currently working on **QA TESTING**
 
-- 🌱 I’m currently learning **SAP|ABAP**
+- 🌱 I’m currently learning **SELENYUM**
 
-- 👯 I’m looking to collaborate on **ASP .NET CORE**
+- 👯 I’m looking to collaborate on **TEST CASE**
 
-- 🤝 I’m looking for help with **ASP .NET  PROJECT**
+- 🤝 I’m looking for help with **QA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yaseminyavuz](https://github.com/yaseminyavuz)
 
-- 💬 Ask me about **C#,SQL,Python**
+- 💬 Ask me about **X-RAY,AGILE,C#,SQL,Python**
 
 - 📫 How to reach me **yaseminyavuz0092@gmail.com**
    
