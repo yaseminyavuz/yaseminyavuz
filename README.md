@@ -30,7 +30,7 @@
 
 - 💬 Ask me about X-RAY, Agile, C#, SQL, Python.
 
-- 📫 How to reach me **yaseminyavuz00@hotmail.com**
+- 📫 How to reach me **yyavuz.qa@gmail.com**
    
        
 
