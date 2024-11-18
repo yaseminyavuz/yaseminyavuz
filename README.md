@@ -70,29 +70,7 @@
 
 ![gıf deneme](https://github.com/yaseminyavuz/yaseminyavuz/assets/128582599/f77b8056-a8ba-448a-b7db-ee472b5e7a8f)
 
-![GitHub Snake Animation](https://github.com/yaseminyavuz/blob/output/github-contribution-grid-snake.svg)
-name: Generate Snake Game
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Her gün çalışacak şekilde ayarlanmıştır
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v2
-        with:
-          github_user_name: yaseminyavuz
-          outputs: dist/snake.svg
-
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Generated snake game animation"
-          file_pattern: dist/*
 
 
 <br />
