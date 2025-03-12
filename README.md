@@ -26,7 +26,7 @@
 
 - 🤝 I’m seeking assistance with QA Processes and Best Practices.
 
-- 👨‍💻 All of my projects and contributions are available at GitHub Profile.
+- 👩‍💻 All of my projects and contributions are available at GitHub Profile.
 
 - 💬 Ask me about X-RAY, Agile, C#, SQL, Python.
 
