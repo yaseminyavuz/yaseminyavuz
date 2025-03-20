@@ -71,8 +71,11 @@
 # Snake Game 🐍
 
 
-## 🎮 Play the Game:
-👉 [Play Now](https://yaseminyavuz.github.io/snake-game)
+
+## 🎮 Play the Snake Game:
+
+<iframe src="https://codepen.io/kullanici-adi/full/snake-game" width="400" height="400" frameborder="0"></iframe>
+
 
 
 
