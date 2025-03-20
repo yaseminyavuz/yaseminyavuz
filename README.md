@@ -70,8 +70,9 @@
 
 # Snake Game 🐍
 
-🎮 Play the Snake Game directly in your browser!  
+## 🎮 Play the Game:
 👉 [Play Now](https://yaseminyavuz.github.io/snake-game)
+
 
 ## Controls:
 - ⬆️ Up Arrow → Move Up  
