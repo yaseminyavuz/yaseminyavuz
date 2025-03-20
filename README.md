@@ -70,8 +70,10 @@
 
 # Snake Game 🐍
 
+
 ## 🎮 Play the Game:
 👉 [Play Now](https://yaseminyavuz.github.io/snake-game)
+
 
 
 ## Controls:
