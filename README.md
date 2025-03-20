@@ -82,10 +82,7 @@
 - ⬅️ Left Arrow → Move Left  
 - ➡️ Right Arrow → Move Right  
 
-### How to Run:
-1. Clone the repository:
-```bash
-git clone https://github.com/yaseminyavuz/snake-game.git
+
 
 
 
