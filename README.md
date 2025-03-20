@@ -68,22 +68,6 @@
 
 ---
 
-# Snake Game 🐍
-
-
-
-## 🎮 Play the Snake Game:
-
-<iframe src="https://codepen.io/kullanici-adi/full/snake-game" width="400" height="400" frameborder="0"></iframe>
-
-
-
-
-## Controls:
-- ⬆️ Up Arrow → Move Up  
-- ⬇️ Down Arrow → Move Down  
-- ⬅️ Left Arrow → Move Left  
-- ➡️ Right Arrow → Move Right  
 
 
 
