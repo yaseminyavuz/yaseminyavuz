@@ -67,6 +67,9 @@
 </p>
 
 ---
+## 🐍 Snake Eating My Contributions 🐍
+
+![Snake animation](https://github.com/yaseminyavuz/yaseminyavuz/blob/output/github-contribution-grid-snake.svg)
 
 
 
