@@ -68,6 +68,21 @@
 
 ---
 
+# Snake Game 🐍
+
+🎮 Play the Snake Game directly in your browser!  
+👉 [Play Now](https://yaseminyavuz.github.io/snake-game)
+
+## Controls:
+- ⬆️ Up Arrow → Move Up  
+- ⬇️ Down Arrow → Move Down  
+- ⬅️ Left Arrow → Move Left  
+- ➡️ Right Arrow → Move Right  
+
+### How to Run:
+1. Clone the repository:
+```bash
+git clone https://github.com/yaseminyavuz/snake-game.git
 
 
 
