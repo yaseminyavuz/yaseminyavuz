@@ -33,12 +33,7 @@
   <a href="https://medium.com/@yaseminyavuz0092" target="blank">
     <img align="center" src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="medium"/>
   </a>
-  <a href="https://instagram.com/_ysmnyvz" target="blank">
-    <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram"/>
-  </a>
-  <a href="https://discord.gg/ysmnyvz" target="blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/discord.png" alt="discord"/>
-  </a>
+
 </p>
 
 ---
