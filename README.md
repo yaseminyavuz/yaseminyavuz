@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yaseminyavuz&color=blue)
 
 <h1 align="center">Hi 👋, I'm Yasemin Yavuz</h1>
-![Logo](https://github.com/kullaniciadiniz/repo-adi/blob/main/assets/ascii-image.png)
+
 
 
 <div align="center">
