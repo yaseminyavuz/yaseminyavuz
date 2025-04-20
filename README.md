@@ -1,8 +1,20 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yaseminyavuz&color=blue)
 
-<h1 align="center">Hi 👋, I'm Yasemin Yavuz</h1>
+
+<h1 align="center">Hi there! 👋 I'm Yasemin Yavuz</h1>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJhOXIycXcxeWN5ZnpjNmI2Z2QzMXBrejVxanZ0djlhaGRpNzdlcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>QA Tester | Gamer | Lifelong Learner 🌱</b>
+</p>
+
+---
 
 
+![Happy Pikachu](https://gettrendygifs.files.wordpress.com/2016/01/happy-pokemon-excited-pikachu.gif)
 
 <div align="center">
  <a href="https://github.com/yaseminyavuz">
@@ -16,41 +28,66 @@
 
 ---
 
-### 🏆 About Me:
-- 🔭 I’m currently working on **QA Testing**.  
-- 🌱 I’m currently learning **Selenium** for test automation.  
-- 👯 I’m looking to collaborate on **Test Case Development**.  
-- 🤝 I’m seeking assistance with **QA Processes** and **Best Practices**.  
-- 👩‍💻 All of my projects and contributions are available on [**GitHub**](https://github.com/yaseminyavuz).  
-- 💬 Ask me about **X-RAY, Agile, C#, SQL, Python**.  
-- 📫 How to reach me → **yyavuz.qa@gmail.com**  
+### ⚡ About Me
+
+- 🔍 I’m passionate about **Quality Assurance** and breaking things to make them better.
+- 👩‍💻 Currently working on automation projects using **Selenium** and **Python** **Java**.
+- 🎓 Studying **Management Information Systems** & pursuing continuous improvement.
+- 🎮 Love analyzing games from both player and tester perspectives.
+- 🧪 ISTQB certified & always chasing bugs like Pikachu chases apples!
+
+---
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=flat&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 ---
 
-### 📲 Connect With Me:
+### 🐾 Let's Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasemin-yavuz-77a39a17b/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  <a href="https://www.linkedin.com/in/yasemin-yavuz" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yaseminyavuz0092" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/48/000000/medium-monogram.png" alt="medium"/>
+  <a href="mailto:yaseminyvz@gmail.com">
+    <img src="https://img.shields.io/badge/-Mail-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
 
 </p>
+
 
 ---
 
 ### 💻 Languages and Tools:
+
 <p align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" title="Arduino"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" title="C++"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" title=".NET"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40" title="MS SQL Server"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" title="PostgreSQL"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+    <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40" title="R Programming"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" title="Java"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" title="Postman"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" title="Jenkins"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40" title="Cypress"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="Visual Studio Code"/>
+    <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="40" height="40" title="PyCharm"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40" title="IntelliJ IDEA"/>
 </p>
 
----
+
 
 ### 🏆 GitHub Trophies:
 <p align="center">
@@ -75,6 +112,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+
+---
+
+
 
 
 
