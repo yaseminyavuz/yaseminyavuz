@@ -36,10 +36,10 @@
 - 🎮 Love analyzing games from both player and tester perspectives.
 - 🧪 ISTQB certified & always chasing bugs like Pikachu chases apples!
 - 🎯 I am currently preparing for the **ISTQB® Certified Tester – AI Testing (CT-AI)** exam.
-- Most of my development work is now continued in private repositories.
-- This decision allows me to focus, protect my work, and manage my projects more securely.
-- Here, you will only find selected projects that I’d like to share publicly as part of my portfolio.
-- For collaboration or review, feel free to reach out. ✨
+- ✨ Most of my development work is now maintained in private repositories.
+- ✨ This decision allows me to focus, protect my work, and manage my projects more securely.
+- ✨ Here, you will only find selected projects that I’d like to share publicly as part of my portfolio.
+- ✉️ For collaboration or review, feel free to reach out. 
 ---
 ---
 
